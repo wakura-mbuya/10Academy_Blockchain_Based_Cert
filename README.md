@@ -7,6 +7,6 @@ The objective of this project is to develop a system that will enable 10 Academy
 Currently,  certificates are distributed as simple PDF files, without the ability to verify their authenticity nor can 10 Academy undertake smart actions with the trainees/their contracts.
 ## Project content
 The final web 3 dApp will have the following sections:
-•	A Frontend implemented using Vue framework. The frontend will define the user interface for the dApp
-•	A backend implemented using Django framework. The backend retrieves data from the database and the Algorand network to be served in the frontend for the user to view it.
-•	Sandbox. Sandbox is the tool that will allow me to use Algorand blockchain within the dApp.
+* A Frontend implemented using Vue framework. The frontend will define the user interface for the dApp
+* A backend implemented using Django framework. The backend retrieves data from the database and the Algorand network to be served in the frontend for the user to view it.
+* Sandbox. Sandbox is the tool that will allow me to use Algorand blockchain within the dApp.
